@@ -14,8 +14,8 @@ cover: assets/images/cover-2-cropped.jpeg
 # logo_text: "BreadMan.co.uk"
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://myJekyll.github.io/jasper2/
-source_url: https://github.com/myJekyll/jasper2/
+production_url: https://breadman.co.uk/
+source_url: https://github.com/breadmanblog/breadmanblog.github.io
 
 # Social info
 navigation: True # show the navbar links
@@ -67,13 +67,11 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: myJekyll
-repo: jasper2
+username: breadmanblog
+repo: breadmanblog.github.io
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://myJekyll.github.io/jasper2/
-source_url:  https://github.com/myJekyll/jasper2/
+# relative_source: /
+# destination: /
 
 exclude:
   - README.md
